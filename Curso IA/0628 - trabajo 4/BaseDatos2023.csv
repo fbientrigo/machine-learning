@@ -180,8 +180,8 @@ Index;OK;idx_s_cam_arcr2_tot_b_none_c_c;static/static.csv;Aridity_cr2met (1979-2
 ;;caudal_mean_p2d;caudal/caudal_mean_p2d.csv;;;;;;;;;;;
 ;;caudal_mean_p3d;caudal/caudal_mean_p3d.csv;;;;;;;;;;;
 ;;caudal_mean_p4d;caudal/caudal_mean_p4d.csv;;;;;;;;;;;
-;;caudal_mask2;caudal/caudal_mask2.csv;;;;;;;;;;;
-;;top_s_cam_lon_mean_b_none_c_c;static/static.csv;;;;;;;;;;;
+;;caudal_mask2;caudal/caudal_mask2.csv;Poco representativo;;;;;;;;;;
+;;top_s_cam_lon_mean_b_none_c_c;static/static.csv;Topografia de la we;;;;;;;;;;
 ;;top_s_cam_lat_mean_b_none_c_c;static/static.csv;;;;;;;;;;;
 ;;top_s_dga_lat_none_p_none_c_c;static/static.csv;;;;;;;;;;;
 ;;top_s_dga_lon_none_p_none_c_c;static/static.csv;;;;;;;;;;;
