@@ -1,0 +1,1 @@
+los datos df_hidro no son mios y son datos privados, sin embargo puedes acceder a los notebooks con libertad y observar como se utilizan :)
